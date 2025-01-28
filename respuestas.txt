@@ -1,1 +1,2 @@
 ejer 1 (grep -i "Juan" datos.txt | wc -l)
+ejer 2 (cut -d ',' -f1,4 datos.txt |grep -E "juan"| cut -d ',' -f2)
