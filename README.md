@@ -1,1 +1,1 @@
-# medinaGitComandos
+# Hector Medina Lopez
